@@ -1,2 +1,2 @@
 # argocd-alb-ingress
-Deploy argocd alb-ingress controller setup
+Deploy argocd with alb-ingress controller setup
